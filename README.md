@@ -1,4 +1,4 @@
-# WIFI
+flower
 import turtle as tr
 
 layar = tr.Screen()
